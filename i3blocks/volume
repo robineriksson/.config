@@ -9,4 +9,4 @@ fi
 
 echo $full_text%
 echo $full_text%
-echo "#FFFFFF"
+#echo "#FFFFFF"
